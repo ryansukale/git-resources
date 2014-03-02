@@ -41,7 +41,7 @@ Books
 
 Presentation Slides
 ----
-[Ash Furrow's speakerdeck ] (https://speakerdeck.com/ashfurrow/github-for-designers)
+- [Ash Furrow's speakerdeck ] (https://speakerdeck.com/ashfurrow/github-for-designers)
 
 
 Seminars
