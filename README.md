@@ -49,6 +49,13 @@ Seminars
 
 
 
+Markdown
+----
+Markdown is what you use to create a document like this. There is some very basic syntax that you need to learn though. The following links should help you get started in no time.
+- [An introduction to markdown by simpleeditions.com] (http://www.simpleeditions.com/59001/markdown-an-introduction)
+
+
+
 
 
 
