@@ -1,7 +1,7 @@
 git-resources
 ====
 
-A collection of resources for learning git and working with git. Feel free to add more.
+A collection of resources for learning and working with git. Feel free to add more.
 
 Cheat Sheets
 ----
