@@ -46,6 +46,11 @@ Presentation Slides
 
 Seminars
 ----
+- [Seminar by Tim Berglund](http://vimeo.com/49444883). He covers the following key concepts
+  - git reflog
+  - git rebase
+  - git diff tools : p4merge
+  - git reset
 
 
 
